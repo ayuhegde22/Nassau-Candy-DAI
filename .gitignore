@@ -14,7 +14,7 @@ env/
 ENV/
 
 # --- Raw / generated data (regenerate via src/pipeline.py) ---
-data/Nassau_Candy_Distributor.xlsx
+
 outputs/*.csv
 
 # --- Streamlit ---
